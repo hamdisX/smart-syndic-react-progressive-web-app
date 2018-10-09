@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1523482758095" clover="3.2.0">
+  <project timestamp="1523482758096" name="All files">
+    <metrics statements="147" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="8" coveredmethods="0" elements="169" coveredelements="0" complexity="0" loc="147" ncloc="147" packages="4" files="17" classes="17">
+      <package name="src">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="main.js" path="/home/hamdi/Bureau/git/smart-syndic/src/main.js">
+          <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="28" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.components">
+        <metrics statements="30" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+        <file name="Menu1.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/Menu1.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+        </file>
+        <file name="Menu2.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/Menu2.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+        <file name="grid.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/grid.js">
+          <metrics statements="9" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="50" count="0" type="stmt"/>
+        </file>
+        <file name="pie.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/pie.js">
+          <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+        </file>
+        <file name="pie2.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/pie2.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+        </file>
+        <file name="profil.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/profil.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+        <file name="test1.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/test1.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+        <file name="test2.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/test2.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+        <file name="test3.js" path="/home/hamdi/Bureau/git/smart-syndic/src/components/test3.js">
+          <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.config">
+        <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <file name="Root.js" path="/home/hamdi/Bureau/git/smart-syndic/src/config/Root.js">
+          <metrics statements="5" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.containers">
+        <metrics statements="107" coveredstatements="0" conditionals="14" coveredconditionals="0" methods="3" coveredmethods="0"/>
+        <file name="App2.js" path="/home/hamdi/Bureau/git/smart-syndic/src/containers/App2.js">
+          <metrics statements="4" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+        </file>
+        <file name="BottomNavigation.js" path="/home/hamdi/Bureau/git/smart-syndic/src/containers/BottomNavigation.js">
+          <metrics statements="14" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="29" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="43" count="0" type="stmt"/>
+        </file>
+        <file name="MiniDrawer.js" path="/home/hamdi/Bureau/git/smart-syndic/src/containers/MiniDrawer.js">
+          <metrics statements="34" coveredstatements="0" conditionals="10" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="1" count="0" type="stmt"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="14" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="16" count="0" type="stmt"/>
+          <line num="18" count="0" type="stmt"/>
+          <line num="20" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="26" count="0" type="stmt"/>
+          <line num="33" count="0" type="stmt"/>
+          <line num="35" count="0" type="stmt"/>
+          <line num="115" count="0" type="stmt"/>
+          <line num="119" count="0" type="stmt"/>
+          <line num="127" count="0" type="stmt"/>
+          <line num="131" count="0" type="stmt"/>
+          <line num="137" count="0" type="stmt"/>
+          <line num="138" count="0" type="stmt"/>
+          <line num="141" count="0" type="stmt"/>
+          <line num="142" count="0" type="stmt"/>
+          <line num="145" count="0" type="stmt"/>
+          <line num="251" count="0" type="stmt"/>
+        </file>
+        <file name="ResponsiveDrawer.js" path="/home/hamdi/Bureau/git/smart-syndic/src/containers/ResponsiveDrawer.js">
+          <metrics statements="33" coveredstatements="0" conditionals="4" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="2" count="0" type="stmt"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="12" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="17" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="21" count="0" type="stmt"/>
+          <line num="22" count="0" type="stmt"/>
+          <line num="23" count="0" type="stmt"/>
+          <line num="25" count="0" type="stmt"/>
+          <line num="27" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="32" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="84" count="0" type="stmt"/>
+          <line num="90" count="0" type="stmt"/>
+          <line num="94" count="0" type="stmt"/>
+          <line num="98" count="0" type="stmt"/>
+          <line num="99" count="0" type="stmt"/>
+          <line num="102" count="0" type="stmt"/>
+          <line num="103" count="0" type="stmt"/>
+          <line num="106" count="0" type="stmt"/>
+          <line num="115" count="0" type="stmt"/>
+          <line num="217" count="0" type="stmt"/>
+        </file>
+        <file name="tabs.js" path="/home/hamdi/Bureau/git/smart-syndic/src/containers/tabs.js">
+          <metrics statements="12" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+          <line num="3" count="0" type="stmt"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="9" count="0" type="stmt"/>
+          <line num="10" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="30" count="0" type="stmt"/>
+          <line num="34" count="0" type="stmt"/>
+          <line num="39" count="0" type="stmt"/>
+        </file>
+        <file name="tileData.js" path="/home/hamdi/Bureau/git/smart-syndic/src/containers/tileData.js">
+          <metrics statements="10" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="0" type="stmt"/>
+          <line num="5" count="0" type="stmt"/>
+          <line num="6" count="0" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+          <line num="8" count="0" type="stmt"/>
+          <line num="11" count="0" type="stmt"/>
+          <line num="13" count="0" type="stmt"/>
+          <line num="15" count="0" type="stmt"/>
+          <line num="19" count="0" type="stmt"/>
+          <line num="57" count="0" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
